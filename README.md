@@ -9,3 +9,7 @@ Encode secret messages in Lorem Ipsum. For the history on Lorem Ipsum, that can 
 ## Current Method
 
 Encode basic ASCII characters into the Lorem Ipsum via the vowels in the rougly middle portion of the text.
+
+## Planned UI Framework
+
+Soon to be using [Arwes](https://arwes.dev) as the UI framework.
