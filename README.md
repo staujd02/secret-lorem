@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The app is entirely JS and running on github pages [here](https://staujd02.github.io/secret-lorem).
+
 ## Goal
 
 Encode secret messages in Lorem Ipsum. For the history on Lorem Ipsum, that can be found [here](https://lipsum.com).
