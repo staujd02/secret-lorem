@@ -22,7 +22,6 @@ class DecoderUtility {
     }
 
     ConvertVowelPairingsToBinary(stringsOfVowels: string[]): string[] {
-        debugger;
         let nestedList = stringsOfVowels.map(vowels => vowels.split(""));
         let flattenedList = nestedList.flat();
         let encodedList = flattenedList.map(c => this.decode(c));
